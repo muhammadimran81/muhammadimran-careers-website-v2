@@ -25,7 +25,7 @@ Jobs=[
     'id':4,
     'title':'Backend Engineer',
     'location':'Lahore, Pakistan',
-    'salary':'Rs. 13,00,000'
+    'salary':'Rs. 11,00,000'
   }
 ]
 
